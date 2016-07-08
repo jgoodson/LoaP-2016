@@ -1,0 +1,12 @@
+SampleName	SampleType	LoaP	Xylose	Genotype
+Cp1	CompX	Y	Y	Comp
+Cp2	CompX	Y	Y	Comp
+Cp3	CompX	Y	Y	Comp
+Cm1	CompNoX	N	N	Comp
+Cm2	CompNoX	N	N	Comp
+Cm3	CompNoX	N	N	Comp
+WT1	WT	Y	N	WT
+WT2	WT	Y	N	WT
+WT3	WT	Y	N	WT
+dL1	dL	N	N	dL
+dL3	dL	N	N	dL
